@@ -41,7 +41,7 @@ cd Christmas
 
 ## 👨🏻‍💻 Running
 
-In the project directory, you can run index.html file.
+In the project directory you can run index.html file.
 
 ## 🗎 Licence
 
