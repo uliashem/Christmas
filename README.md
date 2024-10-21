@@ -3,7 +3,7 @@
 ## https://christmascountdownsnow.netlify.app/
 
 ## 📙About
-This application allows you to create a list of things to do during the day.
+The application shows the number of days, hours, minutes, seconds before Christmas.
 
 
 ## 💻 Tech stack
@@ -22,7 +22,7 @@ This application allows you to create a list of things to do during the day.
 
 ## 🌠 Features
 
-1. Ability to see the number of days before Christmas.
+1. Ability to see the number of days,  hours, minutes, seconds before Christmas.
 2. Ability to turn on Christmas music.
 
 ## 👨‍💻 Installation
