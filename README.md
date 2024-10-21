@@ -43,6 +43,10 @@ cd Christmas
 
 In the project directory, you can run index.html file.
 
+## 🗎 Licence
+
+This application is created for educational purposes and can be used indefinitely.
+
 
 
 
