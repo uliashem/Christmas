@@ -1,12 +1,9 @@
 <h1 align="center">Christmas Countdown app</h1>
 
 ## https://christmascountdownsnow.netlify.app/
+
 ## 📙About
 This application allows you to create a list of things to do during the day.
-## 🖵 Screenshots
-<p align="center">
-<img src="./screen1.png" width="400px" />
-</p>
 
 
 ## 💻 Tech stack
