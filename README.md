@@ -25,35 +25,27 @@ This application allows you to create a list of things to do during the day.
 
 ## 🌠 Features
 
-1. Ability to add new tasks.
-2. Ability to view all tasks.
-3. Ability to mark tasks as ~~**completed**~~.
-4. Ability to delete tasks.
+1. Ability to see the number of days before Christmas
+2. Ability to turn on Christmas music.
 
 ## 👨‍💻 Installation
 
 **1. Clone the repository**
 
 ```sh
-git clone https://github.com/uliashem/todolist.git
+git clone https://github.com/uliashem/Christmas.git
 ```
 
 **2. Navigate to TodoList Folder**
 
 ```sh
-cd todolist
+cd Christmas
 ```
 
 ## 👨🏻‍💻 Running
 
-In the project directory, you can run:
+In the project directory, you can run index.html file.
 
-```sh
-npm start
-```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-## 🗎 Licence
 
-This application is created for educational purposes and can be used indefinitely.
+
